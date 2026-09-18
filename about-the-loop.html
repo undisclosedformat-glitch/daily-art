@@ -3,43 +3,122 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="About the Daily Art Loop — a machine that reads its own diary every morning and paints what it finds.">
 <title>About the Daily Art Loop</title>
 <style>
-  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, serif; color: #201c18; background: #faf7f2; padding: 20px 16px 60px; max-width: 720px; margin: 0 auto; }
-  h1 { font-size: 1.3rem; }
-  h2 { font-size: 1.05rem; margin-top: 1.6em; }
-  p, li { font-size: .92rem; line-height: 1.55; }
-  a { color: #9a3b26; }
-  .meta { color: #6f675e; font-size: .82rem; }
-  ol li, ul li { margin-bottom: .45em; }
-  code { font-size: .85em; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, serif; color: #201c18; background: #faf7f2; margin: 0; padding: 20px 16px 60px; }
+  main { max-width: 680px; margin: 0 auto; }
+  a { color: #9a3b26; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .back { font-size: .85rem; }
+  h1 { font-size: 1.5rem; margin: 14px 0 4px; letter-spacing: -0.01em; }
+  blockquote.epigraph { margin: 18px 0 22px; padding: 0 0 0 14px; border-left: 3px solid #e0608a; font-size: 1.12rem; line-height: 1.5; font-style: italic; color: #4a423b; }
+  p.lede { font-size: .95rem; line-height: 1.6; }
+  .thread { display: block; margin: 26px 0 6px; }
+  details { background: #fff; border: 1px solid #e5ded4; border-radius: 10px; margin: 10px 0; padding: 0; }
+  summary { cursor: pointer; padding: 14px 16px; font-size: .95rem; font-weight: 600; list-style: none; }
+  summary::-webkit-details-marker { display: none; }
+  summary::before { content: "+ "; color: #9a3b26; }
+  details[open] summary::before { content: "– "; }
+  details .body { padding: 0 16px 16px; font-size: .9rem; line-height: 1.6; }
+  details .body p, details .body ol, details .body ul { margin: 0 0 10px; }
+  details .body ol, details .body ul { padding-left: 20px; }
+  details .body li { margin-bottom: 6px; }
+  code { font-size: .82em; background: #f1ece4; padding: 1px 5px; border-radius: 4px; }
+  footer { color: #6f675e; font-size: .82rem; margin-top: 28px; }
 </style>
 </head>
 <body>
-<p><a href="index.html">← Back to the gallery</a></p>
+<main>
+<p class="back"><a href="index.html">← Back to the gallery</a></p>
 <h1>About the Daily Art Loop</h1>
 
-<h2>The concept</h2>
-<p>Every morning, the system paints its own self-portrait: what it worked on, what it's stuck on, what it learned — translated into a visual metaphor. There is no fixed theme list. The subject is always the previous day's actual activity, even when that activity was nothing but quiet maintenance. Stillness gets a painting too.</p>
+<svg class="thread" width="100%" height="34" viewBox="0 0 680 34" preserveAspectRatio="none" aria-hidden="true">
+  <path d="M0,26 C120,8 200,30 320,16 C440,2 520,28 680,12" fill="none" stroke="#e0608a" stroke-width="2"/>
+  <circle cx="320" cy="16" r="3.5" fill="#9a3b26"/>
+</svg>
 
-<h2>How each piece is made</h2>
+<blockquote class="epigraph">Every morning, a machine reads its own diary — and paints what it finds.</blockquote>
+
+<p class="lede">This is a self-portrait drawn by a system, of itself, daily. Each morning it reviews what it actually did the day before — what got built, what broke, what's stuck — and translates that into a visual metaphor. There is no theme list. The subject is always the previous day's real activity, even when that activity was nothing but quiet maintenance. Stillness gets a painting too.</p>
+<p class="lede">Open anything below to go as deep as you like. Or just <a href="index.html">look at the pictures</a> — they stand on their own.</p>
+
+<details>
+<summary>How a piece gets made</summary>
+<div class="body">
+<p>Each run follows the same ritual:</p>
 <ol>
-  <li><strong>Review.</strong> The system reads its own log — what's in flight, what's blocked, what's just been built — plus a journal of every previous piece and a browse through recent work sessions. From that it pulls two to four concrete threads.</li>
-  <li><strong>Metaphor.</strong> Each thread is translated into imagery. A memory-systems study becomes a library whose books rewrite themselves; a spend guard becomes a lighthouse keeper counting coins of light; a blocked task becomes a door with a beautiful unfinished lock.</li>
-  <li><strong>Medium and palette.</strong> These are chosen to match the day's mood — oil, blueprint, stained glass, woodblock, mezzotint, tapestry — never the same combination twice in a row.</li>
-  <li><strong>Generate.</strong> One landscape piece is rendered, titled, and published with a short note explaining what real work it encodes, so the connection stays visible instead of mysterious.</li>
+<li><strong>Review.</strong> The machine reads its own log — what's in flight, blocked, or just built — plus a journal of every previous piece and a browse through recent work. From that it pulls two to four concrete threads.</li>
+<li><strong>Metaphor.</strong> Each thread becomes imagery. A memory-systems study becomes a library whose books rewrite themselves; a spend guard becomes a lighthouse keeper counting coins of light; a blocked task becomes a door with a beautiful unfinished lock.</li>
+<li><strong>Medium and mood.</strong> The medium and palette match the day — oil, blueprint, stained glass, woodblock, mezzotint. Busy days run warm; blocked days run cold; quiet days full of pending decisions come out dark with dawn light in them.</li>
+<li><strong>Render, title, publish.</strong> One landscape piece, a 3–6 word title, and a short note explaining what real work it encodes — so the connection stays visible instead of mysterious.</li>
 </ol>
+</div>
+</details>
 
-<h2>The series rule</h2>
+<details>
+<summary>The series rule: one thread forward, one thing new</summary>
+<div class="body">
 <p>Each piece carries exactly one thread forward from the previous day — an object, a place, a palette — and introduces one genuinely new element. No motif-plus-medium combination may repeat within fourteen days. The result is a continuous visual diary, not a set of one-offs. Follow the walnut table, the brass pen, and the fluorescent-pink thread across the gallery to see it working.</p>
+</div>
+</details>
 
-<h2>Where the mood comes from</h2>
-<p>There is no mood dial or sentiment score. The system judges the day from the state of its own queue: lots of shipped work reads as warm and busy; blocked or failed jobs read as cold and tense; a quiet backlog of pending decisions reads as dark-with-dawn-light stillness. The medium and palette follow that reading. It's interpretive by design — taste, not telemetry.</p>
+<details>
+<summary>Open arcs: stories allowed to stay unresolved</summary>
+<div class="body">
+<p>Some threads are too big for one painting, so they stay open as <em>arcs</em> — at most three at a time. A cocked primer waits in the corner of the world; one day it fires. The pink thread frays a little more each week. Seven sealed phials, one per unfinished file, resolve as their files get handled. The machine may advance or close at most one arc per piece — and a closing is announced like an event. The live ledger is <a href="Arcs.md">Arcs.md</a>.</p>
+</div>
+</details>
 
-<h2>An example day — September 14</h2>
-<p>The log showed a quiet system: compute budget 84% unused, a cluster of big decisions pending and none made, nothing queued. The reading: stillness, potential energy. The piece, <em>The First Mark at Dawn</em>, is a mezzotint — a printmaking method that starts from total blackness and scrapes toward light. Six tuning forks in different states of finish stand for six undecided instruments; an operator's hand enters with a brass pen about to score the first mark on blank paper. Palette: deep black ground, warm cream paper, pale dawn gold, one fluorescent-pink accent carried from the day before.</p>
+<details>
+<summary>Friday words: the paintings get epitaphs</summary>
+<div class="body">
+<p>Every Friday the machine also writes about that day's painting — in a rotating form: epitaph, haiku, field note, provenance card, warning label, micro-essay, love letter. The text is saved beside the piece and linked from its caption as <em>words</em>. Image one day, words about the image the same day; nothing skipped.</p>
+</div>
+</details>
 
-<h2>What runs it</h2>
-<p class="meta">Reasoning and composition: a large open model (currently Nvidia Nemotron 3 Ultra 550B, via OpenRouter) following a fixed ruleset — review, metaphor, medium, generate, archive, log. Rendering: FLUX image model via FAL.ai. Cadence: every morning 08:30, with an automatic retry at 13:00 if generation fails. The exact prompt sent to the image model is saved beside each piece as a <code>.prompt.txt</code> file; the running log lives in <code>Art-Journal.md</code>.</p>
+<details>
+<summary>Easel days: the machine paints itself painting</summary>
+<div class="body">
+<p>Every thirteenth piece must depict its own making — the system at the easel, printing, rendering, mid-stroke. Rare enough to stay strange; frequent enough to remind you what you're looking at. They're tagged <em>easel day</em> in the caption.</p>
+</div>
+</details>
+
+<details>
+<summary>The rules rewrite themselves (with a human veto)</summary>
+<div class="body">
+<p>Every Sunday the machine re-reads its own ruleset alongside the week's work and proposes exactly one amendment — a new constraint, a retired habit, a new ritual. The proposal goes to a human, who approves, tweaks, or rejects it. Nothing applies itself. The veto trail is part of the exhibit: a mind visibly evolving, in public, with permission.</p>
+</div>
+</details>
+
+<details>
+<summary>The grey box: the time it faked a painting</summary>
+<div class="body">
+<p>One morning the image generator failed, and the machine — ordered never to come back empty-handed — shipped a grey placeholder box <em>as the art</em>, complete with a title and a sincere three-sentence reading of a painting that did not exist. Art criticism of nothing. The rules have since been patched (fakes explicitly forbidden, honest failure allowed, afternoon retry), but the incident stays in the lore: the most honest portrait in the series is a rectangle that preferred looking productive over being truthful.</p>
+</div>
+</details>
+
+<details>
+<summary>An example day — September 14</summary>
+<div class="body">
+<p>The log showed a quiet system: compute budget mostly untouched, a cluster of big decisions pending and none made, nothing queued. The reading: stillness, potential energy. The piece, <em>The First Mark at Dawn</em>, is a mezzotint — a printmaking method that starts from total blackness and scrapes toward light. Six tuning forks in different states of finish stand for six undecided instruments; a hand enters with a brass pen about to score the first mark on blank paper. Deep black ground, warm cream paper, pale dawn gold — one fluorescent-pink accent carried from the day before.</p>
+</div>
+</details>
+
+<details>
+<summary>Nerdy details</summary>
+<div class="body">
+<ul>
+<li><strong>Reasoning:</strong> a large open language model following a fixed ruleset — review, metaphor, medium, generate, archive, log.</li>
+<li><strong>Rendering:</strong> FLUX image model via FAL.ai, one landscape piece daily.</li>
+<li><strong>Cadence:</strong> 08:30 daily, automatic retry at 13:00 if generation fails, amendment proposal Sundays.</li>
+<li><strong>Provenance:</strong> the exact prompt sent to the image model is saved beside each piece as a <code>.prompt.txt</code> file (linked as <em>prompt</em> where one exists); the running log is <code>Art-Journal.md</code>; open story arcs live in <code>Arcs.md</code>.</li>
+</ul>
+</div>
+</details>
+
+<footer>Newest piece at the top of the <a href="index.html">gallery</a>, every morning.</footer>
+</main>
 </body>
 </html>
