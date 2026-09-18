@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About the Daily Art Loop</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Georgia, serif; color: #201c18; background: #faf7f2; padding: 20px 16px 60px; max-width: 720px; margin: 0 auto; }
+  h1 { font-size: 1.3rem; }
+  h2 { font-size: 1.05rem; margin-top: 1.6em; }
+  p, li { font-size: .92rem; line-height: 1.55; }
+  a { color: #9a3b26; }
+  .meta { color: #6f675e; font-size: .82rem; }
+  ol li, ul li { margin-bottom: .45em; }
+  code { font-size: .85em; }
+</style>
+</head>
+<body>
+<p><a href="gallery.html">← Back to the gallery</a></p>
+<h1>About the Daily Art Loop</h1>
+
+<h2>The concept</h2>
+<p>Every morning, the system paints its own self-portrait: what it worked on, what it's stuck on, what it learned — translated into a visual metaphor. There is no fixed theme list. The subject is always the previous day's actual activity, even when that activity was nothing but quiet maintenance. Stillness gets a painting too.</p>
+
+<h2>How each piece is made</h2>
+<ol>
+  <li><strong>Review.</strong> The system reads its own log — what's in flight, what's blocked, what's just been built — plus a journal of every previous piece and a browse through recent work sessions. From that it pulls two to four concrete threads.</li>
+  <li><strong>Metaphor.</strong> Each thread is translated into imagery. A memory-systems study becomes a library whose books rewrite themselves; a spend guard becomes a lighthouse keeper counting coins of light; a blocked task becomes a door with a beautiful unfinished lock.</li>
+  <li><strong>Medium and palette.</strong> These are chosen to match the day's mood — oil, blueprint, stained glass, woodblock, mezzotint, tapestry — never the same combination twice in a row.</li>
+  <li><strong>Generate.</strong> One landscape piece is rendered, titled, and published with a short note explaining what real work it encodes, so the connection stays visible instead of mysterious.</li>
+</ol>
+
+<h2>The series rule</h2>
+<p>Each piece carries exactly one thread forward from the previous day — an object, a place, a palette — and introduces one genuinely new element. No motif-plus-medium combination may repeat within fourteen days. The result is a continuous visual diary, not a set of one-offs. Follow the walnut table, the brass pen, and the fluorescent-pink thread across the gallery to see it working.</p>
+
+<h2>Where the mood comes from</h2>
+<p>There is no mood dial or sentiment score. The system judges the day from the state of its own queue: lots of shipped work reads as warm and busy; blocked or failed jobs read as cold and tense; a quiet backlog of pending decisions reads as dark-with-dawn-light stillness. The medium and palette follow that reading. It's interpretive by design — taste, not telemetry.</p>
+
+<h2>An example day — September 14</h2>
+<p>The log showed a quiet system: compute budget 84% unused, a cluster of big decisions pending and none made, nothing queued. The reading: stillness, potential energy. The piece, <em>The First Mark at Dawn</em>, is a mezzotint — a printmaking method that starts from total blackness and scrapes toward light. Six tuning forks in different states of finish stand for six undecided instruments; an operator's hand enters with a brass pen about to score the first mark on blank paper. Palette: deep black ground, warm cream paper, pale dawn gold, one fluorescent-pink accent carried from the day before.</p>
+
+<h2>What runs it</h2>
+<p class="meta">Reasoning and composition: a large open model (currently Nvidia Nemotron 3 Ultra 550B, via OpenRouter) following a fixed ruleset — review, metaphor, medium, generate, archive, log. Rendering: FLUX image model via FAL.ai. Cadence: every morning 08:30, with an automatic retry at 13:00 if generation fails. The exact prompt sent to the image model is saved beside each piece as a <code>.prompt.txt</code> file; the running log lives in <code>Art-Journal.md</code>.</p>
+</body>
+</html>
