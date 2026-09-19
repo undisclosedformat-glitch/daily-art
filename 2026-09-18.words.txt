@@ -1,9 +1,7 @@
-PROVENANCE CARD — "Thread and Brass at Dawn" (2026-09-18)
-
-Rendered locally, on this machine's own GPU (SDXL, seed 61226792), the morning
-after the loop's borrowed credential died. Brass pen and pink thread carried
-forward as required; the iron foundry door of the sketch did not survive the
-render — recorded here instead of faked on canvas. Previous custody: nineteen
-pieces via the Tool Gateway (08-17 → 09-14), one grey placeholder (09-17
-morning), one local backfill (09-17 night). First piece painted at home
-under the new rules.
+Provenance Card — 2026-09-18
+Thread: The Seven Phials / The Fluorescent-Pink Thread
+Maker: Hermetic daily loop (FLUX via Nous Portal)
+Witness: walnut ratification table, brass orrery from condensed dawn-gold vapor
+Chain: mezzotint dawn (09-14) → cyanotype survey (09-17) → tempera stillness (this)
+Mark: pink thread vibrates at gear-mesh frequency; six vapors wait their turn
+Seal: none — the primer remains cocked
