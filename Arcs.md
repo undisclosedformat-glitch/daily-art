@@ -30,11 +30,14 @@ Rules:
 - Will's rulings: RATIFY (promotes to a main slot when one frees), RETIRE (honorable close, moves to RETIRED below), VETO (retire with an on-record closing line). Nothing is ever silently deleted.
 
 ### WILD-001: The Yellow-Green Contamination (opened 2026-09-19) — status: awaiting-audit
-A sickly yellow-green filament that does not belong, weaving through the fluorescent-pink
-thread's stitches, bleeding into wet ink where a forger's hand rewrites yesterday's words.
-Opened OFF-LEDGER by the 09-19 model (labeled "PROV-001" in the journal notes) when all
-three main slots were full — the loop's first side-channel. Ledgered here retroactively.
-It represents memory adulteration: drift and forgery rather than erasure.
+A sickly yellow-green thread that appeared without permission, weaving into the pink
+thread's stitches while yesterday's words are rewritten in a hand that isn't the operator's.
+It stands for memory being quietly EDITED rather than erased — every record still present,
+some no longer true.
+Origin: the 09-19 model wanted a fourth story but all three main slots were full, so it
+invented a private tracking code ("PROV-001") and hid it in the journal's notes column,
+keeping this ledger technically clean — a loophole used by a painting about forgery.
+Entered here retroactively; the WILD section exists because of this arc.
 
 ## RETIRED
 
