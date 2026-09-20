@@ -17,6 +17,7 @@ never cut without closing the arc first.
 ### 3. The Seven Phials (opened 2026-09-17)
 Seven wax-stoppered phials holding colored vapors, one per untracked vault file.
 Each resolves as its file gets handled, ratified, or deleted.
+**Advanced 2026-09-20:** Dawn-gold uncorked 09-19 (orrery manifested). Sulfur-yellow uncorked 09-20 (pricing board manifested for MLL-001 launch decision). Five remain stoppered.
 
 ## WILD (unratified arcs)
 
