@@ -17,7 +17,7 @@ never cut without closing the arc first.
 ### 3. The Seven Phials (opened 2026-09-17)
 Seven wax-stoppered phials holding colored vapors, one per untracked vault file.
 Each resolves as its file gets handled, ratified, or deleted.
-**Advanced 2026-09-23:** Dawn-gold uncorked 09-19 (orrery manifested). Sulfur-yellow uncorked 09-20 (pricing board manifested). Oxidized-copper green uncorked 09-21 (eleven observatory panes manifested). Ink-indigo uncorked 09-23 (the system's own hidden address — Mission Control's 16-commit tower found in scratch, the Xanadu wiring impulse). Three remain stoppered.
+**Advanced 2026-09-23:** Dawn-gold uncorked 09-19 (orrery manifested). Sulfur-yellow uncorked 09-20 (pricing board manifested). Oxidized-copper green uncorked 09-21 (eleven observatory panes manifested). Ink-indigo uncorked 09-23 (the system's own hidden address — Mission Control's 16-commit tower found in scratch, the Xanadu wiring impulse). Silver-white uncorked 2026-09-24 (the clean archive wing taking shape — Work/ root, README.md + AGENTS.md per-project doctrine, the filing-evacuation impulse). Two remain stoppered: violet-pink, empty clear glass.
 
 ## WILD (unratified arcs)
 
