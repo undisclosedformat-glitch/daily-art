@@ -1,7 +1,7 @@
 # The Daily Art Loop — Ruleset (Hermes)
 
-version: v1.0 (first consolidated edition)
-consolidated: 2026-09-23, Nashville
+version: v1.1
+consolidated: 2026-09-23, Nashville; v1.1 2026-09-26 (Will's word: two-door governance codified)
 status: ratified — this document collects rules already in force; nothing here is new as of v1.0
 scope: constitution only. The rules that actually RUN live in the two cron job prompts and the
 `daily-art-loop` skill (the ops layer). On any conflict, the cron prompt is what executed —
@@ -95,9 +95,17 @@ too, the day gets a FAILED journal row and an honest notice — no piece, no fak
 
 ## 9. Governance
 
-Every Sunday the loop re-reads its rules against the week's pieces and proposes exactly ONE
-amendment. Will replies APPROVE / TWEAK / REJECT. Nothing applies itself — a human patches the
-prompts. The veto trail is part of the record.
+Rules change through two doors, and the constitution admits both (codified 2026-09-26, Will's
+word, both loops the same day):
+
+1. The Sunday ritual — every Sunday the loop re-reads its rules against the week's pieces and
+   proposes exactly ONE amendment. Will replies APPROVE / TWEAK / REJECT.
+2. Will's word — Will may change any rule at any time, directly. Same-day application, logged
+   with its date and "Will's word" in the amended text, so the trail shows which door it came
+   through.
+
+Nothing applies itself through either door — a human patches the prompts. The veto trail is part
+of the record.
 
 Amendments are not real until the cron prompts change. A rule that lives only in this document
 is a wish; this document exists so the wishes and the machinery can be compared.
