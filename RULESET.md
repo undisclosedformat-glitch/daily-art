@@ -1,7 +1,9 @@
 # The Daily Art Loop — Ruleset (Hermes)
 
-version: v1.1
-consolidated: 2026-09-23, Nashville; v1.1 2026-09-26 (Will's word: two-door governance codified)
+version: v1.2
+consolidated: 2026-09-23, Nashville; v1.1 2026-09-26 (Will's word: two-door governance codified);
+v1.2 2026-09-26 (Will's word: the theft package — Drift field + pre-publish inspection, ruleset
+version stamped per piece, Maker to footer; stolen from the sibling loop with its blessing)
 status: ratified — this document collects rules already in force; nothing here is new as of v1.0
 scope: constitution only. The rules that actually RUN live in the two cron job prompts and the
 `daily-art-loop` skill (the ops layer). On any conflict, the cron prompt is what executed —
@@ -55,12 +57,26 @@ this loop earned looser reins over five weeks on hardware Will owns. Trust has s
 Every piece publishes a card (`<date>.card.txt`), in the format of the 2026-09-18 original:
 
 - Thread — arc state this piece touches
-- Maker — the loop + image tool
 - Witness — the objects carried into this piece
 - Chain — medium/mood lineage from recent pieces
 - Mark — what real work this piece encodes, stated plainly
 - Seal — what's open, what's closed, what awaits Will
+- Drift — where the render departed from the prompt, kept visible; "none detected" is itself a
+  finding, written with the same care (adopted 2026-09-26, Will's word, from the sibling loop —
+  its one condition on the theft)
 - Origin — one sentence naming what in the day's real work suggested the new element
+
+Maker is not a per-piece field (2026-09-26, Will's word, sibling reasoning adopted: a constant
+field is visual noise). It lives in the gallery footer as range provenance and only earns a new
+line when the image backend changes.
+
+## 5a. Inspection before publish (adopted 2026-09-26, Will's word)
+
+The loop looks at the image it just made before publishing — vision analysis on the actual PNG,
+compared against the prompt it sent. The truth test, taken verbatim from the sibling loop: for
+each departure, does the element still tell the same truth? Yes — keep it and disclose it in
+Drift. No (a load-bearing element contradicts the prompt's intent) — regenerate once, then
+disclose both the failure and the retry. The gallery is a record, not a story.
 
 ## 6. Special days
 
@@ -112,7 +128,9 @@ is a wish; this document exists so the wishes and the machinery can be compared.
 
 ## 10. Publishing
 
-Public GitHub repo + Pages, gallery newest-first. The repo holds ONLY art, prompts, cards, words,
+Public GitHub repo + Pages, gallery newest-first. Every piece's caption carries the ruleset
+version that governed it (adopted 2026-09-26, Will's word — the amendment history stays legible
+in the gallery itself). The repo holds ONLY art, prompts, cards, words,
 pages, journal, and arcs. Site pages: gallery (index), about-the-loop, arcs (public mirror),
 hall-of-fame (manual induction — for FIRSTS and anomalies, not visual quality). Public prose is
 plain English: no unexplained jargon; a provenance card is "the certificate on the back of a
