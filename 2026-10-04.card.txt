@@ -1,0 +1,8 @@
+Provenance Card — 2026-10-04
+Thread: Seven Phials arc advances to forensic recording complete — the strip chart's full paper tape fed into etching press, grooves bitten into copper; Yellow-Green Contamination (WILD-001) persists as systematic offset
+Witness: Fluorescent-pink thread (continuous since 09-14), walnut ratification table, cocked brass primer (gold-leaf firing pin), empty clear-glass convergence lens, strip chart recorder's paper tape, file-watch adapter as drypoint needle, five waiting doorframes reflected in lens
+Chain: From aquatint etching (10-03 strip chart) → drypoint etching on copper with chine collé; cold pre-dawn indigo to pale horizon gold; copper's warm metallic sheen replaces aquatint's warm cream paper; fluorescent-pink sole accent holds
+Mark: Sunday rules-proposal ritual — the loop re-reading its constitution against the week's pieces and proposing exactly one amendment to Will; five Active-Queue tracks blocked on Will's word (FILE-001, LOOM-002, MLL-001, SVC-001, PROV-001) recorded as grooves awaiting ink
+Seal: Seven Phials arc open (forensic recording complete, evidence tags manifest); Cocked Primer open (silent); Fluorescent-Pink Thread open (unbroken); Yellow-Green Contamination WILD open (awaiting-audit); awaits Will's word on five blocked tracks and Sunday amendment proposal
+Drift: Vision analysis unavailable — could not inspect render against prompt; inspection deferred
+Origin: The Sunday rules-proposal cron (f2fe8e74887a) fires at 9am today — the system governing itself by re-reading its rules against the week's pieces — suggested the etching press as the mechanism that turns recorded grooves into visible law.
