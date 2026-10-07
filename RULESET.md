@@ -1,9 +1,11 @@
 # The Daily Art Loop — Ruleset (Hermes)
 
-version: v1.2
+version: v1.3
 consolidated: 2026-09-23, Nashville; v1.1 2026-09-26 (Will's word: two-door governance codified);
 v1.2 2026-09-26 (Will's word: the theft package — Drift field + pre-publish inspection, ruleset
-version stamped per piece, Maker to footer; stolen from the sibling loop with its blessing)
+version stamped per piece, Maker to footer; stolen from the sibling loop with its blessing);
+v1.3 2026-10-07 (Will's word: text-in-image discipline + Text/Decision/Receipt card lines, from
+the sibling loop's second-pass text study, adopted after our own reading and a six-render test)
 status: ratified — this document collects rules already in force; nothing here is new as of v1.0
 scope: constitution only. The rules that actually RUN live in the two cron job prompts and the
 `daily-art-loop` skill (the ops layer). On any conflict, the cron prompt is what executed —
@@ -65,6 +67,13 @@ Every piece publishes a card (`<date>.card.txt`), in the format of the 2026-09-1
   finding, written with the same care (adopted 2026-09-26, Will's word, from the sibling loop —
   its one condition on the theft)
 - Origin — one sentence naming what in the day's real work suggested the new element
+- Text — literal transcription of the focal text, `[unclear]` where unsure, or "no focal text"
+  (adopted 2026-10-07, Will's word)
+- Decision — keep / retry / uninspected, with one reason (adopted 2026-10-07, Will's word)
+- Receipt — the endpoint that actually served the render, as the tool reported it, plus the
+  returned pixel size and any resize/edit step. Read it, never repeat it from the instructions
+  (adopted 2026-10-07, Will's word; trial week 10-08 → 10-14, then the Sunday ritual decides
+  whether it stays)
 
 Maker is not a per-piece field (2026-09-26, Will's word, sibling reasoning adopted: a constant
 field is visual noise). It lives in the gallery footer as range provenance and only earns a new
@@ -77,6 +86,27 @@ compared against the prompt it sent. The truth test, taken verbatim from the sib
 each departure, does the element still tell the same truth? Yes — keep it and disclose it in
 Drift. No (a load-bearing element contradicts the prompt's intent) — regenerate once, then
 disclose both the failure and the retry. The gallery is a record, not a story.
+
+## 5b. Text in the image (adopted 2026-10-07, Will's word)
+
+Before composing, decide what the viewer is invited to read. Anything that visually says "read
+me" — a scroll, a headline, a ledger, a label — must hold up when read, or be drawn as abstract
+marks or a blank surface on purpose. Focal gibberish is the failure; lettering that looks like
+texture and was meant as texture is fine. A no-text day is a legitimate choice, not a failure.
+
+When writing carries meaning, it gets one of two jobs:
+- EXACT — the loop supplies the short string (a few words) in quotes, early in the prompt, on a
+  front-facing, high-contrast surface. Never ask for long passages ("the ruleset in ink") without
+  supplying the words, and never exact technical strings on tiny ornate surfaces.
+- EMERGENT — the loop reserves the slot ("one short line, 3–6 ordinary words, invented by the
+  image") and the card records the result as invented by the render, never as a real quotation,
+  date, tally, or finding.
+
+Focal text that comes back as gibberish fails the truth test in 5a: regenerate once, then
+disclose. Lineage: the sibling loop's second-pass study (2026-10-07) and our own six-render
+test the same day — exact short headlines came back clean on both small and large surfaces, so
+the rule is about short supplied wording, not surface size. Same day we found the renders had
+been coming from the gateway's fast default model, not the one the cards named — hence Receipt.
 
 ## 6. Special days
 
