@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-08
+Thread: The Seven Phials stays open; the empty glass is not in frame today — the sorting table takes its place. Cocked Primer and Pink Thread both carried.
+Witness: walnut table, cocked brass primer with gold-leaf pin, fluorescent-pink thread, yellow-green ghost thread, dawn beam from upper left.
+Chain: yesterday's lithograph on cream stone paper -> today a cyanotype on blue ground; warm umber lowered to cold Prussian blue, dawn gold kept as the one warm beam.
+Mark: A new review task was queued: go through the archived repos and saved posts and decide for each whether to adopt, build on, reference, or drop. Nothing is set up yet — the piece is the sorting before the deciding.
+Seal: Open — the review itself, the music session, the scratch-folder move. Closed — nothing. Awaiting Will — the verdicts on what to keep.
+Drift: Prompt asked for three groups with no writing; the image divides the paper into four quadrants with a white cross, and several seed packets and tags carry small printed labels. Same truth (a sorting in progress), kept. Unprompted set dressing: botanical prints on tags, a yellow-green thread running the full right edge.
+Origin: The review-and-sort task added to the queue yesterday suggested the new element — objects laid out in groups awaiting verdicts.
+Text: no focal text; incidental render-invented labels on seed packets, e.g. "ALBINO DAISY", "MARGARITA", "HASTA LUCIO" [other strings unclear].
+Decision: keep — the invented labels are small texture, not the invitation to read; the sorting reads clearly.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-08 08:30:56) · returned 1024x576 · 1067249 bytes · from tool-result-file · no resize/edit
