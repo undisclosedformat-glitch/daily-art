@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-09
+Thread: Seven Phials not advanced today; Cocked Primer and Pink Thread carried as background; Yellow-Green Contamination (wild, awaiting audit) ghosts the table.
+Witness: the walnut table at dawn, the sorted found objects from yesterday, the pink thread, the yellow-green thread, the brass key.
+Chain: yesterday's cyanotype sorting table (cold blue, top-down) becomes a warm woodblock print at an angle; objects stay, now sorted into trays.
+Mark: the model-routing work — traffic between several AI model lanes is being sorted through a single gate with fallbacks, and the sorted review items wait in trays for a verdict.
+Seal: open — the review of saved repos and posts; the hosted-account step awaits Will. Closed — the lane fallback chain and local routing setup are working.
+Drift: the pink thread ties a key to the tollhouse, not to the cocked primer; no primer is visible. Same truth (the thread still links the work to a waiting decision), kept. Rails read as three, not four. Trays are flat colour blocks, not lacquer. The film spool, a paper figure at the lever and a second lit window were drawn as asked or close to it.
+Origin: yesterday's sorting of saved repos into adopt / build on / reference / drop suggested the trays, and the model-lane work suggested the tollhouse gate with rails.
+Text: no focal text
+Decision: keep — the unmet primer link does not reverse the meaning.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-09 08:30:56) · returned 1024x576 · 1087604 bytes · from tool-result-file · no resize/edit
