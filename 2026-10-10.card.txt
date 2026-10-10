@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-10
+Thread: Seven Phials not advanced; Cocked Primer and Pink Thread carried as background; Yellow-Green Contamination (wild, awaiting audit) ghosts the table.
+Witness: the walnut table at dawn, the brass key, the pink thread, the yellow-green thread, the paper figure at the toll lever, the cocked primer.
+Chain: yesterday's mokuhanga tollhouse (indigo, cream, brass) becomes a flat three-ink risograph in teal and orange; the toll gate shrinks to a prop and its paper keeper falls asleep beside a sorting cabinet.
+Mark: the quiet weekend after the model-routing and review-sorting work — the routes run, the saved-items review (REVIEW-001) still waits in its compartments, and nothing is demanding a verdict today.
+Seal: open — REVIEW-001 verdicts and the hosted-account step await Will. Closed — the fallback routing chain is working and unattended.
+Drift: the primer reads as a small brass spool-like device, not clearly a cocked primer; the pink thread still runs from the key to it, so the link survives (same truth, kept). The yellow-green thread is a loose pile at the front corner rather than a thin ghost along the edge. The paper figure and toll gate read as one slumped shape. Background is cream rather than a dark table-in-dawn scene. Compartment count is not thirty.
+Origin: yesterday's tollhouse gate with its paper figure at the lever suggested the sleeping keeper and the pigeonhole cabinet standing in for the waiting sorted items.
+Text: no focal text
+Decision: keep — the key-to-device thread and the idle gate still say "everything routed, awaiting a verdict".
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-10 08:30:41) · returned 1024x576 · 1182913 bytes · from tool-result-file · no resize/edit
