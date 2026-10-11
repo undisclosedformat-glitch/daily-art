@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-11
+Thread: The Fluorescent-Pink Thread carried (key to primer); Cocked Primer still cocked on the sill. Seven Phials not advanced.
+Witness: the sleeping paper toll-keeper (now awake), brass key, cocked primer, sorted objects (keys, seed packets, paper boat), yellow-green ghost thread.
+Chain: woodblock (10-09) and riso (10-10) sorting-table pieces become stained glass: the sorted objects are now fixed into permanent panes.
+Mark: the model-lane routing and the saved-items review queue are set up and running; the review verdicts still wait on Will.
+Seal: open — review verdicts, Seven Phials, both main threads; closed — nothing; awaiting Will — the sort verdicts.
+Drift: the toll-keeper stands atop a small brass tollhouse and also holds a key, and the pink thread starts at the held pane rather than only the key; small seed packets in the upper panes carry unprompted pseudo-lettering. Same truth, kept.
+Origin: yesterday's quiet Saturday with the toll-keeper asleep suggested the new element of waking and fitting the one empty pane.
+Text: no focal text; texture lettering on seed packets reads roughly "SREET", "MEROS" [unclear elsewhere].
+Decision: keep — departures preserve the story and the packet text is incidental texture.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-11 08:30:32) · returned 1024x576 · 1124286 bytes · from tool-result-file · no resize/edit
