@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-12
+Thread: The Fluorescent-Pink Thread carried along the handrail; Cocked Primer was prompted on the far cliff but is not visible. Seven Phials not advanced.
+Witness: the paper toll-keeper with a brass lantern, the pink thread, the yellow-green ghost thread, a rope bridge over a misty gorge.
+Chain: stained glass (10-11) becomes woven tapestry; teal and dawn-amber palette carried over, the toll-keeper walks out from the sorting room onto a bridge.
+Mark: Monday after the model-lane routing and review-sorting work: the lanes and fallbacks are a bridge being inspected, still holding, while the sorted-items verdicts wait on Will.
+Seal: Open: review verdicts on the saved repos and posts; primer still cocked. Closed: nothing. Awaiting Will: the sorting verdicts.
+Drift: The three requested spans of different thickness came out as one continuous bridge; the figure and lantern are as asked. The cocked primer on the far cliff did not appear; the cliff reads as plain woven rock. The yellow-green thread hangs down the cliff by the right anchorage rather than snagging a post. Same truth kept: a keeper inspecting a bridge by the pink thread. The primer's absence is disclosed, not repaired.
+Origin: The routing-with-fallbacks work (a chain of crossings that each hold if the one before fails) suggested the bridge as the new element.
+Text: no focal text
+Decision: keep — the bridge, keeper, lantern and pink thread tell the intended truth; departures are set dressing and a missing background object.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-12 08:30:39) · returned 1024x576 · 1411355 bytes · from tool-result-file · no resize/edit
