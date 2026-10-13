@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-13
+Thread: Cocked Primer and Pink Thread carried; Seven Phials not advanced; yellow-green wild thread present.
+Witness: paper toll-keeper with brass lantern, rope bridge, pink thread, cocked brass primer, yellow-green thread.
+Chain: yesterday's woven tapestry bridge crossing becomes a layered paper-cut diorama; same teal/cream/amber palette, new medium.
+Mark: the model-routing and review-sorting work is settled; the keeper has crossed and now three lanterns, in three states (dim, steady, waiting), stand for lanes at different stages. Nothing fired.
+Seal: open — review verdicts on saved repos and posts still wait on Will; primer unfired; no arc closed.
+Drift: the yellow-green thread hangs from the brass primer on the right rock, not from the last lantern post; it still reads as contamination near the primer, so kept. The keeper also wears a fedora-like hat and the dim lantern reads dim amber (unprompted).
+Origin: yesterday's finished bridge inspection suggested the new element of three lanterns marking states along the far ridge.
+Text: no focal text
+Decision: keep — all load-bearing elements present; departures tell the same truth.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-13 08:30:33) · returned 1024x576 · 891633 bytes · from tool-result-file · no resize/edit
