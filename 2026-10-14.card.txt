@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-14
+Thread: Cocked Primer and Pink Thread both touched (thread runs from the new kiosk to the primer); Seven Phials not advanced.
+Witness: the paper toll-keeper with brass lantern, three signal lanterns, cocked primer, pink thread, yellow-green ghost thread.
+Chain: follows 10-13's paper-cut diorama; the medium moves to thick oil on linen, same teal/rust/amber dawn palette.
+Mark: the model-lane routing work now has a front desk: a switchboard where each lane plugs in, while the review of saved repos and posts still waits on Will.
+Seal: open — all three main arcs, WILD-001 awaiting audit, REVIEW-001 verdicts; closed — nothing; awaits Will — the sorting verdicts.
+Drift: the kiosk shows twelve sockets in a grid rather than ten in two rows (same truth: many lanes, one board); the three lanterns sit on a distant shoreline rather than on posts below; unprompted: a painter's signature in the corner, a box-like face on the keeper, two blank hanging tags. Kept all.
+Origin: yesterday's lane-routing and fallback-chain work suggested the switchboard kiosk.
+Text: no focal text; a render-invented painter's signature in the bottom-right corner reads roughly "G. A. Larsen 2019" (invented by the render, not a real credit).
+Decision: keep — every departure still tells the same truth.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-14 08:31:30) · returned 1024x576 · 1145252 bytes · from tool-result-file · no resize/edit
