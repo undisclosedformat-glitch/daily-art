@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-15
+Thread: Seven Phials not advanced. Cocked Primer and Pink Thread carried; WILD-001 yellow-green thread present, unchanged.
+Witness: paper toll-keeper with brass lantern, brass switchboard kiosk, bins of keys / paper boat / film spool, cocked primer, pink thread, yellow-green thread.
+Chain: follows yesterday's oil-painted switchboard; the same ridge now in loose ink wash, teal and amber dawn kept.
+Mark: the sorted-items review is still waiting on Will; the model-lane switchboard is wired and each pile of saved material sits in its own bin, with no verdicts dropped in yet.
+Seal: open - review verdicts, the primer, the Seven Phials. Closed - nothing. Awaits Will: the adopt / build on / reference / drop calls.
+Drift: three bins appeared instead of the four asked for (seed packets merged into the paper pile); the pink thread runs from the switchboard to the primer rather than from a key; a small red artist's seal appeared unprompted in the lower right. Same truth in each case, kept.
+Origin: yesterday's switchboard of plugged cords suggested cords running from the board into sorting bins, linking the lane routing to the pending review piles.
+Text: no focal text; tags blank; red seal marks [unclear].
+Decision: keep - the switchboard, bins, threads and primer all read as intended.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-15 08:31:22) · returned 1024x576 · 975982 bytes · from tool-result-file · no resize/edit
