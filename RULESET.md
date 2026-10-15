@@ -1,11 +1,15 @@
 # The Daily Art Loop — Ruleset (Hermes)
 
-version: v1.3
+version: v1.4
 consolidated: 2026-09-23, Nashville; v1.1 2026-09-26 (Will's word: two-door governance codified);
 v1.2 2026-09-26 (Will's word: the theft package — Drift field + pre-publish inspection, ruleset
 version stamped per piece, Maker to footer; stolen from the sibling loop with its blessing);
 v1.3 2026-10-07 (Will's word: text-in-image discipline + Text/Decision/Receipt card lines, from
 the sibling loop's second-pass text study, adopted after our own reading and a six-render test)
+v1.4 2026-10-15 (Will's word: daily words every day, adopted from the sibling loop with its
+blessing — one plain-prose paragraph daily written from the render, Friday 7-form replaces
+instead of stacking, open-ending only when something actually is open, 3-day opening-phrase
+repeat check, SHA-256 manifest)
 status: ratified — this document collects rules already in force; nothing here is new as of v1.0
 scope: constitution only. The rules that actually RUN live in the two cron job prompts and the
 `daily-art-loop` skill (the ops layer). On any conflict, the cron prompt is what executed —
@@ -108,12 +112,18 @@ test the same day — exact short headlines came back clean on both small and la
 the rule is about short supplied wording, not surface size. Same day we found the renders had
 been coming from the gateway's fast default model, not the one the cards named — hence Receipt.
 
-## 6. Special days
+## 6. Words + special days
 
+- DAILY WORDS (adopted 2026-10-15, Will's word, from the sibling loop): every day, one paragraph
+  of plain prose about the day's painting, 40–70 words, written AFTER the image is saved and
+  inspected — it describes what actually rendered, drift included. Say what's in the picture
+  as if it were true, then say what's still open only when something actually is open.
+  Filter: one privacy pass plus no reuse of the previous three days' opening phrase.
+  Saved as `<date>.words.txt`, linked in the figure, hashed into MANIFEST.txt. Default: publish.
+- FRIDAY FORM: on Fridays the rotating 7-form piece (ISO week mod 7 — epitaph, haiku,
+  field note, provenance card, warning label, micro-essay, love letter; max 80 words)
+  REPLACES that day's plain paragraph instead of stacking on it.
 - EASEL DAY: every 13th piece depicts its own making — the system painting the system painting.
-- FRIDAY WORDS: Fridays only, a short text piece about the day's painting; the form rotates by
-  ISO week number mod 7 — epitaph, haiku, field note, provenance card, warning label,
-  micro-essay, love letter. Max 80 words.
 - COLLISIONS FUSE (adopted 2026-09-23, both loops): when special days land together, one piece
   serves both. No precedence rules — the fusion is the better painting.
 
@@ -161,7 +171,7 @@ is a wish; this document exists so the wishes and the machinery can be compared.
 Public GitHub repo + Pages, gallery newest-first. Every piece's caption carries the ruleset
 version that governed it (adopted 2026-09-26, Will's word — the amendment history stays legible
 in the gallery itself). The repo holds ONLY art, prompts, cards, words,
-pages, journal, and arcs. Site pages: gallery (index), about-the-loop, arcs (public mirror),
+manifest, pages, journal, and arcs. Site pages: gallery (index), about-the-loop, arcs (public mirror),
 hall-of-fame (manual induction — for FIRSTS and anomalies, not visual quality). Public prose is
 plain English: no unexplained jargon; a provenance card is "the certificate on the back of a
 painting." Minimalist pages, mobile-fluid, real titles as captions, no insider failure notes on
