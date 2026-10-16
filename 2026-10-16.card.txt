@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-16
+Thread: Seven Phials not advanced. Cocked Primer and Pink Thread carried; WILD-001 yellow-green thread present, unchanged.
+Witness: toll-keeper with brass lantern, brass switchboard kiosk, stamp rack, wooden bins of keys / paper boat / film spools, cocked primer, pink thread, yellow-green thread.
+Chain: follows yesterday's sumi-e ink wash; same ridge and switchboard, now in flat picture-book gouache with an evening sky instead of dawn, because the week is ending.
+Mark: the sorted-items review (adopt / build on / reference / drop) is still waiting on Will; the model-lane switchboard stays wired, and the four verdict stamps sit with dry pads at the end of the week.
+Seal: open - review verdicts, the primer, the Seven Phials. Closed - nothing. Awaits Will: the four verdict calls.
+Drift: three stamps appeared instead of four (circle, stair, brackets; no cross); five bins instead of four (film spools split across two); the keeper reads as a small boy in a trench coat and hat rather than a paper figure; a tiny brand-like label on a ration box in the right bin, an artist's signature in the corner, and extra ink pads and stars appeared unprompted. Same truth in each case - stamps unused, verdicts pending - kept.
+Origin: yesterday's bins awaiting verdicts suggested the tools that would deliver the verdicts: stamps, one per outcome, still unused.
+Text: no focal text; ration-box label reads roughly "Malatovina" with a smaller line [unclear]; corner signature [unclear]; render-invented set dressing, not meaningful.
+Decision: keep - keeper, switchboard, stamps, bins, both threads and primer all read as intended; stray text is small set dressing.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-16 08:31:25) · returned 1024x576 · 978151 bytes · from tool-result-file · no resize/edit
