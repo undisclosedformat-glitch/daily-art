@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-17
+Thread: Seven Phials not advanced. Cocked Primer and Pink Thread carried; WILD-001 yellow-green thread present, unchanged.
+Witness: paper toll-keeper with brass lantern, brass switchboard kiosk, stamp rack with dry pads, bins of keys / paper boat / film spools, cocked primer, pink thread, yellow-green thread.
+Chain: follows yesterday's evening gouache; same ridge and switchboard, now as a long-exposure night photograph of the miniature, with star trails instead of a dusk sky, for a quiet Saturday.
+Mark: the sorted-items review (adopt / build on / reference / drop) still waits on Will; the model-lane switchboard stays wired and nothing new was stamped over the weekend start.
+Seal: open - review verdicts, the primer, the Seven Phials. Closed - nothing. Awaits Will: the verdict calls.
+Drift: keeper stands on the crate rather than sitting on it; five stamps in the rack instead of a few; the moth sits on a separate raised pad on legs, not on a pad in the rack; cords on the switchboard are black; stamps and pads carry small label text although the prompt said blank; the primer reads as a brass pump at lower right. Same truth in each case - stamps unused, a quiet visitor, verdicts pending - kept.
+Origin: yesterday's dry stamp pads suggested that, left unused over a weekend night, something small and alive would settle on one: a moth.
+Text: no focal text; small stamp and pad labels read roughly "VERDICT" / "VERDICUT", others [unclear]; render-invented set dressing, not a real quotation.
+Decision: keep - keeper, lantern, switchboard, stamps, moth, both threads and primer read as intended; stray lettering is small and sits on stamps where "verdict" fits the story.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-17 08:31:09) · returned 1024x576 · 1159336 bytes · from tool-result-file · no resize/edit
