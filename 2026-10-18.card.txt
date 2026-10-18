@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-18
+Thread: Seven Phials not advanced. Cocked Primer and Pink Thread carried; WILD-001 yellow-green thread present, unchanged.
+Witness: paper toll-keeper on a crate, brass lantern, brass switchboard kiosk, stamp rack with pads, bins of keys / paper boat / film spools, cocked primer, pink thread, yellow-green thread.
+Chain: follows last night's long-exposure photograph; same ridge, now a woodblock-style print at Sunday dawn instead of night, warm amber replacing star trails.
+Mark: the sorted-items review (adopt / build on / reference / drop) still waits on Will; the model-lane switchboard stays wired and the stamps are still unused after a full week.
+Seal: open - review verdicts, the primer, the Seven Phials. Closed - nothing. Awaits Will: the verdict calls.
+Drift: three stamps in the rack, not four; the wing mark is an insect drawing inside an open pad box rather than a smudge on a pad; the keeper's head is a faceted paper polyhedron; the yellow-green cord runs from the kiosk to a cylindrical brass device at right, which reads as the primer; a red artist's chop-mark sits in the lower-left corner; the style leans vintage illustration more than strict woodblock. Same truth in each case - stamps unused, the moth's visit leaving a trace and departing, verdicts pending - kept.
+Origin: last night's moth resting on a dry pad suggested that by morning it would be gone and leave only a faint mark, the first trace on an unused stamp.
+Text: no focal text; the primer's small label and the red chop-mark characters are [unclear], render-invented set dressing, not a real quotation.
+Decision: keep - keeper, lantern, switchboard, stamps, departing moth, both threads and primer read as intended; the stray marks are small and consistent with the story.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-18 08:31:03) · returned 1024x576 · 1042233 bytes · from tool-result-file · no resize/edit
