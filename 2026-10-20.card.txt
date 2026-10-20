@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-20
+Thread: No arc advanced. The pink thread still runs from the kiosk to the cocked primer; the primer has not fired. Seven Phials not advanced.
+Witness: Paper toll-keeper with brass lantern, brass switchboard kiosk with open side door, stamp rack, bins of keys / paper boat / film spools, pink thread, cocked primer, yellow-green thread.
+Chain: Follows yesterday's cyanotype; a risograph print this time, keeping the teal and amber palette and the pink accent.
+Mark: The switchboard is wired and running after the lane routing and the sorting of saved repos; the verdicts on that sorting still wait on Will.
+Seal: Open: the four verdict stamps, still dry, and the new letterbox's envelope, unopened. Awaits Will's verdicts. Nothing closed.
+Drift: The requested sunrise and layered ridges did not render; the scene sits on a rocky pedestal against flat beige-teal paper. The wide-open door and staircase render as asked, but no key is clearly visible in the lock. Unprompted: a small round monogram-like mark at the bottom left, and a white-coated figure (read as the trench coat). The stamp rack renders as a low bench with stamp blocks. Same truth kept: a door open, a waiting envelope.
+Origin: Yesterday's open side door suggested that something might now come through it, so a letterbox with one unopened envelope appears.
+Text: no focal text (a small bottom-left mark reads as [unclear])
+Decision: keep — the open door, the unopened envelope and the dry stamps all still say the same thing.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-20 08:31:15) · returned 1024x576 · 1281976 bytes · from tool-result-file · no resize/edit
