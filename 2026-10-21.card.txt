@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-21
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both carried on (pink thread runs wrist to primer; primer still cocked). Seven Phials not advanced. No arc opened or closed.
+Witness: paper toll-keeper with lantern, brass switchboard kiosk with open side door, wooden letterbox (flap open, envelope gone), rack of dry verdict stamps, keys / paper boat / film spool, yellow-green ghost line at the kiosk base.
+Chain: yesterday a risograph print; today stained glass with a dawn backlight, same teal/rust/cream/brass palette with pink and yellow-green accents.
+Mark: the saved-repos and saved-posts review (REVIEW-001) is a pile of items awaiting sorting; the wall of drawers is that pile, each drawer opened a different amount, none yet judged. Model lanes (LANE-001) are wired and running.
+Seal: open — every drawer's verdict, and the four stamps, wait on Will. Closed — the switchboard wiring. Nothing new awaits beyond the standing review.
+Drift: the glass medium rendered as a mix of leaded panes and a photographic dawn-landscape inserted in the upper-left panels; the kiosk interior shows cream curved baffle panels rather than a clear spiral staircase; the primer sits at upper right, drawn as a teal-and-brass pistol-like device; the letterbox flap is open and empty as asked. Same truth in each case, kept.
+Origin: yesterday's new letterbox with one unopened envelope suggested the envelope leaving and the sorted-drawer wall appearing behind it.
+Text: no focal text (the brass label plates and stamp bases carry faint marks, [unclear]).
+Decision: keep — every load-bearing element (lantern keeper, open kiosk, empty letterbox, drawers, pink thread to primer) matches the prompt.
+RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-21 08:31:11) · returned 1024x576 · 971522 bytes · from tool-result-file · no resize/edit
