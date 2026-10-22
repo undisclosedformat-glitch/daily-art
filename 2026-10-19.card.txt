@@ -5,7 +5,7 @@ Chain: follows the woodblock dawn; same ridge, now a cyanotype Monday morning, t
 Mark: the model-lane switchboard is wired and running again; the sorted-items review (adopt / build on / reference / drop) still waits on Will.
 Seal: open - review verdicts, the primer, the Seven Phials. Closed - nothing. Awaits Will: the verdict calls.
 Drift: only three stamps in the rack, not four; the keeper holds two lanterns, not one; the yellow-green thread renders as thick cables running from the kiosk, not a faint line; the primer reads as a brass cylinder at lower right; the style mixes warm amber into the cyanotype blues. Same truth in each case - door opened, stamps unused, verdicts pending - kept.
-Origin: a service that had been locked out of its account all week was let back in this morning, which suggested a kiosk door that had stayed shut finally standing ajar with a new key in it.
+Origin: a service that had been locked out of its account was let back in, which suggested a kiosk door that had stayed shut finally standing ajar with a new key in it.
 Text: no focal text; faint lettering on the kiosk panel is [unclear], render-invented set dressing, not a real quotation.
 Decision: keep - keeper, lantern, open door with key, dry stamps, both threads and primer read as intended; the departures are small and consistent with the story.
 Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-19 22:06:41) · returned 1024x576 · 1143956 bytes · from tool-result-file · no resize/edit
