@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-22
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both carried on (in this render the pink thread also touches the paper lips). Seven Phials not advanced. No arc opened or closed.
+Witness: paper toll-keeper with lantern, brass switchboard kiosk with open side door, wall of teal drawers, yellow-green ghost line along the bottom edge.
+Chain: yesterday stained glass; today a woven tapestry with collaged paper objects, same teal/rust/cream/brass palette with pink and yellow-green accents.
+Mark: the voice-cloning test plan (VOICE-002) follows a first attempt that failed Will's ear test: the copy sounded robotic and not like him. The paper lips on the horn are that copy; the amber breath is the real voice.
+Seal: open — whether better voice models close the gap waits on Will's go-ahead; nothing has been downloaded yet. Closed — nothing.
+Drift: the mouth cutout rendered large and glossy rather than flat and small; the toll-keeper is built from text-printed paper; the kiosk shows shelves of small vials and a sign over the door; the primer sits on the drawer wall with two pink threads, one to the lips and one toward the breath; a lantern stands on the table. Same truth in each case, kept.
+Origin: yesterday's queue gained a voice-cloning task after a synthetic copy of Will's voice sounded obviously fake, suggesting the borrowed lips.
+Text: kiosk sign reads "LAGFRONE" (render-invented, unprompted); toll-keeper's head carries tiny columns of [unclear] print.
+Decision: keep — the load-bearing elements (breath cloud not entering the horn, mismatched mouth, pink thread to primer) match the prompt; the stray sign is incidental.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-22 08:31:15) · returned 1024x576 · 1332929 bytes · from tool-result-file · no resize/edit
