@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-23
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both touched, neither advanced; the Seven Phials not advanced. The yellow-green thread ghosts the floor.
+Witness: paper toll-keeper with lantern, brass switchboard kiosk (side door open), wall of teal drawers, dry verdict stamps, pink thread, cocked primer, yellow-green thread; new: a green paper parakeet with a cassette rack.
+Chain: Thursday's tapestry with a phonograph horn gives way to an isometric cardboard diorama; mood stays quiet and waiting, with dawn light at the edge.
+Mark: The queued voice-model work includes a test of speech-to-text transcribers on about a hundred recorded shop calls; the parakeet listens to tapes and writes blank tape. Nothing has been tested or downloaded yet.
+Seal: Open: the voice tests await Will's go; the review verdicts still wait on Will. Closed: nothing.
+Drift: The toll-keeper rendered in a white coat; the yellow-green thread became a thick glowing tube; the primer lies on the floor near the kiosk rather than in a far corner; no dawn window is visible, only its light. Each still tells the same truth. Kept.
+Origin: Yesterday's queued voice-model work, which includes a transcription contest named after a parakeet, suggested the bird.
+Text: no focal text (squiggles on the paper tape are abstract marks)
+Decision: keep — the bird, tape, rack and all recurring objects are present and the departures do not change the meaning.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-23 08:31:02) · returned 1024x576 · 848211 bytes · from tool-result-file · no resize/edit
