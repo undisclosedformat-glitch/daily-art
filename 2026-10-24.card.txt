@@ -1,0 +1,12 @@
+Provenance Card — 2026-10-24
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both still stand; neither advanced today. The Seven Phials not advanced.
+Witness: the paper toll-keeper with lantern, the brass switchboard kiosk with its side door open, the wall of teal drawers, the cassette rack, the dry verdict stamps, the pink thread, the yellow-green thread.
+Chain: yesterday's isometric paper diorama gives way to a stop-motion clay still; the same deep teal and indigo night with a line of amber dawn, now with warmer light from a window.
+Mark: the voice-model work (queued, nothing downloaded yet) includes a contest between a small transcriber and a larger, heavier one; the scale holds both, undecided.
+Seal: open — the transcriber contest has not run and the choice is Will's to approve; verdicts still wait on Will. Closed — nothing today.
+Drift: the intended level beam did not render level in either of two attempts (first tipped toward the small green bird, second toward the larger gold-and-black one). Kept the second: the lean toward the larger bird still says "the bigger option weighs more", but the intended tie is lost. The keeper rendered as an older white-haired man in a coat; the cocked primer reads as a small brass apparatus (projector-like) on the lower right, with the yellow-green wire coming from it; the window is large and upper right; the stamps carry unreadable smudged labels.
+Origin: the queued voice-model test, which pits a small transcriber against a larger fine-tuned one on shop recordings, suggested two birds on a scale.
+Text: no focal text; small kiosk label and stamp labels [unclear].
+Decision: retry — first render's beam tipped, so one regeneration was made; the second tipped the other way and was kept as the truer to a "bigger weighs more" reading.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-24 08:31:08) · returned 1024x576 · 877042 bytes · from tool-result-file · no resize/edit
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-24 08:31:41) · returned 1024x576 · 808147 bytes · from tool-result-file · no resize/edit
