@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-25
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both still stand; neither advanced today. The Seven Phials not advanced.
+Witness: the paper toll-keeper with lantern, the brass switchboard kiosk with its side door open, the brass balance scale with the small green bird and the larger gold-and-black bird, the wall of teal drawers, the cassette rack, the pink thread, the yellow-green thread.
+Chain: yesterday's clay still gives way to an oil painting; same deep teal night, now with a warmer, lamplit Sunday stillness.
+Mark: the voice-model work (queued, nothing downloaded yet) is unchanged since Wednesday; the transcriber contest is still unrun, so the scale is simply at rest.
+Seal: open — the voice-model test awaits Will's go; verdicts still wait on Will. Closed — nothing today.
+Drift: the toll-keeper rendered as a standing white origami-like figure rather than seated on a stool; the stool instead holds the scale and the wax cylinder; the birds read as folded paper resting on the pans, not clearly asleep with tucked heads; the beam level was not confirmed in the inspection; the kiosk's interior shows rows of small brass plugs and a lit lantern; the primer reads as a small brass pump or generator on the right; cassette and drawer labels are illegible marks.
+Origin: the queued voice-model test, still waiting, suggested a blank wax cylinder standing ready in a cradle, an unrecorded voice.
+Text: no focal text; cassette and drawer labels [unclear].
+Decision: keep — the scale at rest with both birds and a blank cylinder still tells the "nothing decided yet" truth.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-25 08:31:16) · returned 1024x576 · 1100851 bytes · from tool-result-file · no resize/edit
