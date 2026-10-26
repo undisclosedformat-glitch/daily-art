@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-26
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both still stand; neither advanced today. The Seven Phials not advanced.
+Witness: the white paper toll-keeper with lantern, the brass switchboard kiosk, the brass balance scale with the small green bird and the larger gold-and-black bird, the wall of teal drawers with cassettes, the small brass primer, the pink thread, the yellow-green thread.
+Chain: yesterday's oil impasto gives way to layered paper-cut; same deep teal night with amber dawn, now tighter and more guarded.
+Mark: the tower's network lockdown work (narrowing who can reach the machine) is encoded as a gate with a padlock; the voice-model and transcriber tests are still waiting, so the scale stays at rest.
+Seal: open — the lockdown and the voice-model test both await Will; verdicts still wait on Will. Closed — nothing today.
+Drift: the gate rendered as a tall pointed-bar gate dividing the room in two rather than a narrow gate set into the kiosk wall; the padlock is large and prominent; the lantern ring sits around the keeper's feet rather than just inside the gate; a small yellow tag on the gate carries scribbled strokes; the pink thread runs through the gate; the scale hangs from above; three drawer fronts read as cassettes; the finish looks more like clean digital miniature than cut paper.
+Origin: the tower network lockdown work from yesterday suggested a padlocked gate with a small ring of lanterns for those let in.
+Text: no focal text; yellow tag on the gate [unclear] scribbles.
+Decision: keep — a closed, padlocked gate with a small lit circle still tells the "secured, narrowed access" truth.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-26 08:31:11) · returned 1024x576 · 835756 bytes · from tool-result-file · no resize/edit
