@@ -1,0 +1,12 @@
+Provenance Card — 2026-10-27
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both present; the pink thread passes through the lantern and ends at the padlock and a brass primer. Seven Phials not advanced. Yellow-green ghost thread coils by the gate.
+Witness: paper toll-keeper with lantern, shut gate and brass padlock, brass balance scale with small green bird and larger gold-and-black bird, cassette rack, wall of teal drawers.
+Chain: yesterday's layered paper-cut shadow box gives way to a three-color linocut; the same deep teal, indigo and amber dawn palette carries over.
+Mark: access to the tower network stays narrowed to a padlocked gate; the transcriber contest and the saved-items verdicts still wait on Will.
+Seal: open — the gate is shut, the transcriber contest is unrun, verdicts wait on Will. Closed — the lockdown itself is done and the lamps are in.
+Drift: First render put the key within arm's reach of the keeper, which contradicted the prompt's meaning (access out of reach), so it was regenerated once from the same prompt. The kept render hangs the key on a post to the right of the gate, clearly out of reach. Also: the keeper reads as a boxy robot-like paper figure; the pink thread ends at the padlock rather than only at the primer; the cassette rack shows four cassettes; the drawers carry blank label slots. First render also carried a small unprompted initials mark in the corner (not in the kept render).
+Origin: the previous day's lockdown work suggested the key that exists but cannot be reached.
+Text: no focal text; drawer label slots blank.
+Decision: retry — first render's key sat within reach, contradicting the intent; second kept.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-27 08:31:03) · returned 1024x576 · 959146 bytes · from tool-result-file · no resize/edit
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-27 08:31:42) · returned 1024x576 · 1154211 bytes · from tool-result-file · no resize/edit
