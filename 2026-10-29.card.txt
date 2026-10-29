@@ -1,0 +1,12 @@
+Provenance Card — 2026-10-29
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both present and untouched; the pink thread runs lantern to padlock to primer. Seven Phials not advanced. No arc advanced or closed.
+Witness: paper toll-keeper with lantern, shut gate with brass padlock, brass kiosk, balance scale with small green bird and larger gold-and-black bird, cassette rack, wall of teal drawers, yellow-green thread.
+Chain: yesterday's cyanotype (Prussian blue) gives way to a woodblock-style print in indigo and cream; the shut-gate scene continues for a fourth day.
+Mark: the tower network lockdown left the gate shut and the transcriber contest and its verdicts still wait on Will; the new instrument is a sundial standing idle in the yard.
+Seal: open — the gate, the contest, the verdicts. Closed — nothing. Awaiting Will — the go-ahead on the voice and transcriber work.
+Drift: the render looks like clean digital illustration with a grain finish, not a true woodblock. The prompt asked for a sundial whose gnomon casts NO shadow; the first render also cast one and was missing the pink thread, primer and drawers, so it was regenerated once. The kept second render has every thread and object but the gnomon still casts a distinct shadow, which contradicts the overcast idea: the dial reads as lit by the lantern. Unprompted: cassettes sit inside the drawers; a wheeled launcher stands for the primer; the pink thread also loops through the padlock keyhole to the sundial.
+Origin: yesterday's fogged gauge that nobody could read suggested a second instrument, a sundial, that also cannot give a reading.
+Text: no focal text
+Decision: retry — the first render lacked the arc objects (thread, primer, drawers); the second kept all of them and the shadow flaw is disclosed.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-29 08:31:03) · returned 1024x576 · first attempt (set aside)
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-29 08:31:50) · returned 1024x576 · 1020131 bytes · from tool-result-file · no resize/edit
