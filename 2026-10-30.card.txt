@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-30
+Thread: The Cocked Primer and the Fluorescent-Pink Thread stay open, unchanged. The Seven Phials is not advanced.
+Witness: paper toll-keeper with lantern, shut iron gate with brass padlock, brass balance scale with a small green bird and a larger gold-and-black bird, wall of teal drawers, pink thread, yellow-green line.
+Chain: follows a week of printmaking and paper media (cyanotype, woodblock, linocut); today the frame itself becomes stained glass, with the same quiet dawn-band mood.
+Mark: the week ends with the tower's network gate still shut and the transcriber contest and voice-clone verdicts still waiting on Will's word.
+Seal: open: gate shut, transcriber contest unrun, verdicts await Will. Closed: nothing. Awaits Will: the go on the voice and transcriber tests.
+Drift: the render reads as a paper diorama set in front of stained-glass panels, not a single leaded panel. The scale beam tips toward the larger bird though the prompt said level (same truth as the earlier contest pieces, kept). The pink thread runs from the moth to the scale and a small brass part, not from the lantern. No cassette rack and no clear cocked primer visible; teal drawers have blank label slots.
+Origin: no new work landed yesterday; the new element, a paper moth resting on the padlock, comes from the stillness of a gate that stays shut.
+Text: no focal text
+Decision: keep — the missing and shifted items do not change the picture's truth of waiting at a shut gate.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-30 08:31:33) · returned 1024x576 · 887820 bytes · from tool-result-file · no resize/edit
