@@ -1,0 +1,11 @@
+Provenance Card — 2026-10-31
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both touched; the pink thread runs toward the padlocked gate. Seven Phials not advanced. No arc opened or closed.
+Witness: paper toll-keeper with lantern, shut iron gate with brass padlock, balance scale with small green bird and larger gold-and-black bird, teal drawers, cocked primer, yellow-green ghost line.
+Chain: follows yesterday's stained glass and paper diorama (indigo, teal, amber dawn band) with a loose ink wash on cream paper; same dawn band, quieter mood.
+Mark: the tower is still locked down and the transcriber contest and voice-clone verdicts still wait on Will; Halloween night is the occasion, so the shut gate puts on a mask.
+Seal: open — the gate stays shut, the key is out of reach, the contest verdicts await Will. Closed — nothing today.
+Drift: a second, ordinary carved pumpkin appeared on the opposite gatepost (not prompted); the toll-keeper has a boxy head; the pink thread ends at the padlock's keyhole, not the lantern flame, and the primer reads as a machine on the right. The render reads as watercolor-like illustration more than pure ink wash. Same truth in each case: the gate wears a mask, thread points at the lock. Kept.
+Origin: yesterday's moth on the padlock suggested a second small creature at the gate; the calendar (Halloween) turned it into a carved lantern mask.
+Text: no focal text
+Decision: keep — departures tell the same truth as the prompt.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-10-31 08:31:24) · returned 1024x576 · 1043053 bytes · from tool-result-file · no resize/edit
