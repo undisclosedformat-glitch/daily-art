@@ -1,12 +1,11 @@
 Provenance Card — 2026-11-02
-Thread: The Cocked Primer and the Fluorescent-Pink Thread both touched; the thread runs from the toll-keeper's lantern across the ground and through the scale. Seven Phials not advanced. No arc opened or closed.
-Witness: paper toll-keeper with lantern, shut iron gate with brass padlock, balance scale with small green bird and larger gold-and-black bird, teal drawers, carved turnip lantern, yellow-green ghost line.
-Chain: follows Halloween's ink wash with a two-ink risograph print; same dawn band, colder and quieter, the morning after.
-Mark: the tower is still locked down and the transcriber contest and voice-clone verdicts still wait on Will; the holiday is over and the gate is unchanged.
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both touched; the pink thread runs from the lantern to the padlock. Seven Phials not advanced. No arc opened or closed.
+Witness: toll-keeper with lantern, shut iron gate with brass padlock, balance scale with small green bird and larger gold-and-black bird, closed teal drawers, yellow-green ghost thread.
+Chain: follows Saturday's ink wash (Halloween mask on the gate) with embroidered felt and wool thread; same gate, same dawn band, the mask taken off and the month turned.
+Mark: the tower is still locked down and the transcriber contest and voice-clone verdicts still wait on Will; a new month starts with nothing resolved.
 Seal: open — the gate stays shut, the contest verdicts await Will. Closed — nothing today.
-Drift: the first render showed the turnip lit and hung on the wall, with the candle stub in a drawer; it was regenerated once because "burnt down on the gatepost" was the point. The kept render puts the turnip on the stone post as asked, with a candle stub and smoke, but the candle is still lit rather than dark, and the post is stone rather than iron. The toll-keeper is blocky; the pink thread runs through the scale and off-frame rather than clearly to the primer; golden knobs appear on the drawers (unprompted). Same truth: the mask is burning down at the gate. Kept.
-Origin: yesterday's carved turnip mask suggested its aftermath, the candle burning down once the holiday is over.
-Text: no focal text
-Decision: keep — second render is the truer one; the candle burns low on the gatepost.
-Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-02 06:28:27) · returned 1024x576 · 1255908 bytes · from tool-result-file · no resize/edit
-Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-02 06:29:04) · returned 1024x576 · 1252068 bytes · from tool-result-file · no resize/edit
+Drift: the toll-keeper rendered as a small white knitted doll rather than paper; the orange leaf lies on the ground instead of drifting; the drawers carry small white stitched labels instead of blank ones; the primer is not clearly visible. Same truth in each case: a figure waits at a shut gate with the thread tied to the lock. Kept.
+Origin: the calendar turning to November suggested a torn month leaf on the gatepost, the first element from the date itself rather than a creature.
+Text: NOVEMBER (calendar leaf, exact, legible)
+Decision: keep — departures tell the same truth as the prompt.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-02 06:28:43) · returned 1024x576 · 1208863 bytes · from tool-result-file · no resize/edit
