@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-02
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both touched; the pink thread runs from the lantern to the padlock. Seven Phials not advanced. No arc opened or closed.
+Witness: toll-keeper with lantern, shut iron gate with brass padlock, balance scale with small green bird and larger gold-and-black bird, closed teal drawers, yellow-green ghost thread.
+Chain: follows Saturday's ink wash (Halloween mask on the gate) with embroidered felt and wool thread; same gate, same dawn band, the mask taken off and the month turned.
+Mark: the tower is still locked down and the transcriber contest and voice-clone verdicts still wait on Will; a new month starts with nothing resolved.
+Seal: open — the gate stays shut, the contest verdicts await Will. Closed — nothing today.
+Drift: the toll-keeper rendered as a small white knitted doll rather than paper; the orange leaf lies on the ground instead of drifting; the drawers carry small white stitched labels instead of blank ones; the primer is not clearly visible. Same truth in each case: a figure waits at a shut gate with the thread tied to the lock. Kept.
+Origin: the calendar turning to November suggested a torn month leaf on the gatepost, the first element from the date itself rather than a creature.
+Text: NOVEMBER (calendar leaf, exact, legible)
+Decision: keep — departures tell the same truth as the prompt.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-02 06:28:43) · returned 1024x576 · 1208863 bytes · from tool-result-file · no resize/edit
