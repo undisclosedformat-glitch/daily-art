@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-03
+Thread: The Cocked Primer and the Fluorescent-Pink Thread both touched; the pink thread runs from the lantern to the padlock. Seven Phials not advanced. No arc opened or closed.
+Witness: toll-keeper with lantern, shut iron gate with brass padlock, balance scale with small green bird and larger gold-and-black bird, closed teal drawers, yellow-green ghost thread.
+Chain: follows Monday's felt-and-wool tapestry (the November leaf) with gouache flat shapes; same gate, same dawn band, now a box to receive decisions.
+Mark: the tower is still locked down and the transcriber contest and voice-clone verdicts still wait on Will; today is election day, so the waiting verdicts got a ballot box.
+Seal: open — the gate stays shut, the box is empty, the verdicts await Will. Closed — nothing today.
+Drift: the toll-keeper rendered as a small white paper doll; the yellow-green thread runs from the lantern across the floor to the scale rather than ghosting along the ground; the two blank slips rest on a stone slab beneath the scale instead of beside the box; the primer is not visible. Same truth in each case: a keeper waits at a shut gate with an empty box and unmarked slips. Kept.
+Origin: Election Day suggested a ballot box, the first container for decisions, for verdicts nobody has cast yet.
+Text: VERDICTS (box label, exact, legible)
+Decision: keep — departures tell the same truth as the prompt.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-03 08:31:30) · returned 1024x576 · 919399 bytes · from tool-result-file · no resize/edit
