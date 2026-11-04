@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-04
+Thread: The Fluorescent-Pink Thread and the Cocked Primer carried on, unadvanced; the Seven Phials not advanced; the yellow-green wild line ghosts the gate.
+Witness: the lantern-bearing keeper, the shut gate with brass padlock, the balance scale with the small green bird and the larger gold-and-black bird, closed teal drawers, the pink thread.
+Chain: yesterday's gouache on dark blue paper; today a misregistered risograph print in teal, pink and brass-gold. Mood unchanged: indigo night with an amber dawn band, still waiting.
+Mark: the tower is still locked down and nothing has been decided: the transcriber contest and the pending verdicts wait on Will. A bell that cannot ring stands for a system that has a way to call out but is holding still.
+Seal: open — the gate, the transcriber contest, the verdicts. Awaits Will's word. Nothing closed today.
+Drift: The keeper rendered as a small boxy robot with round eyes rather than a paper figure (same role, same lantern: kept). The pink thread ends at the bell's handle and no cocked primer is visible (thread still connects lantern to the gate's contents; the primer is absent this day). The yellow-green line rendered as vapor plumes rising from lantern and padlock rather than a line along the bars. Unprompted: gold gibberish marks on the bell's arm and a cursive scribble signature in the lower right.
+Origin: Yesterday's real work left the gate shut and the call for a verdict unanswered, which suggested a means of calling out (a bell) that is deliberately silenced.
+Text: no focal text; gold gibberish marks on the bell arm and an [unclear] cursive signature, both render-invented.
+Decision: keep — the bell's clapper is visibly tied, so the silenced-call truth holds; departures do not reverse any element's meaning.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-04 08:31:22) · returned 1024x576 · 1261719 bytes · from tool-result-file · no resize/edit
