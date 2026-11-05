@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-05
+Thread: The Fluorescent-Pink Thread and the Cocked Primer carried on, unadvanced; the Seven Phials not advanced; the yellow-green wild line ghosts the gate.
+Witness: the lantern-bearing keeper, the shut gate with brass padlock, the balance scale with the small green bird and the larger gold-and-black bird, closed teal drawers, the pink thread.
+Chain: yesterday's two-color risograph print; today oil pastel on dark indigo paper. Mood unchanged: indigo night with an amber dawn band, still waiting.
+Mark: the voice-model work is queued but not started; its trigger was a cloned voice that sounded obviously not like its owner. A gramophone that plays back a slightly wrong copy of the keeper stands for that gap.
+Seal: open — the gate, the voice-model tests, the transcriber contest. Awaits Will's word. Nothing closed today.
+Drift: not assessed. The image-inspection service returned repeated overload errors, so what rendered versus what was prompted is unverified.
+Origin: The queued voice-cloning work, where a synthetic voice failed to sound like its owner, suggested a horn that plays back an imperfect copy of the keeper.
+Text: not transcribed (uninspected); prompt requested no readable text.
+Decision: uninspected — vision analysis unavailable (HTTP 503 on four attempts).
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-05 08:31:19) · returned 1024x576 · 1031300 bytes · from tool-result-file · no resize/edit
