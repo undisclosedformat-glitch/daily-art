@@ -1,11 +1,11 @@
 Provenance Card — 2026-11-07
 Thread: The Fluorescent-Pink Thread and the Cocked Primer carried on, unadvanced; the Seven Phials not advanced; the yellow-green wild line ghosts the gate.
-Witness: the keeper (now seated), the shut gate with brass padlock, the balance scale with the small green bird and the larger gold-and-black bird, teal drawers, the pink thread.
-Chain: yesterday's oil pastel on dark indigo paper; today a long-exposure photograph of a miniature diorama. Mood unchanged: indigo night, amber dawn band, still waiting, now resting.
-Mark: it is Saturday and the queued work (voice-model tests, the transcriber contest, verdicts) has not moved. The keeper sits down and hangs a sign saying so.
-Seal: open — the gate, the voice-model tests, the transcriber contest. Awaits Will's word. Nothing closed today.
-Drift: the lantern rendered as a wall-mounted street lamp on the gate post rather than one hung above the keeper; the sign reads on two lines with a hyphen (BACK- / MONDAY); the primer reads as a small brass tube; a lantern-hook was not painted. None of these change what the picture says.
-Origin: the weekend pause after a week of work queued but untouched suggested the keeper finally sitting down with a sign.
-Text: "BACK- MONDAY" (two lines, hyphen added by the render)
-Decision: keep — sign is legible and says the intended thing; departures tell the same truth.
-RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-07 09:55:23) · returned 1024x576 · 837741 bytes · from tool-result-file · no resize/edit
+Witness: the lantern-bearing keeper, the shut gate with brass padlock, the balance scale with the small green bird and the larger gold-and-black bird, closed teal drawers, the pink thread.
+Chain: the last piece was oil pastel on dark indigo paper; today charcoal and chalk on gray paper. Mood unchanged: a quiet Saturday, amber dawn band, still waiting.
+Mark: a pile of saved material waiting to be sorted into keep, build on, or drop. A stack of tied parcels with blank tags, the top one opened and left, stands for a sorting job begun and not finished.
+Seal: open — the gate, the voice-model tests, the transcriber contest, the sorting pile. Awaits Will's word. Nothing closed today.
+Drift: none detected. The inspection found all prompted elements present, seven parcels counted, tags blank, no text anywhere. The one reading of "paper figure" is a faceless stylized keeper, which tells the same truth.
+Origin: The queued review of saved repos and bookmarks, still waiting to be sorted into adopt, reference, or drop, suggested a stack of tied parcels with a half-opened top one.
+Text: none visible; all tags and papers blank as prompted.
+Decision: keep — every load-bearing element present on first render.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-07 09:55:28) · returned 1024x576 · 1159645 bytes · from tool-result-file · no resize/edit
