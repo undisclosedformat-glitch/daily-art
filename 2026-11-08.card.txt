@@ -1,0 +1,12 @@
+Provenance Card — 2026-11-08
+Thread: The Fluorescent-Pink Thread runs from padlock to the cocked primer (both arcs touched, neither advanced). Seven Phials not advanced.
+Witness: toll-keeper with lantern, shut gate with brass padlock, brass balance scale with green bird and gold-and-black bird, pink thread, cocked primer.
+Chain: yesterday a long-exposure macro photograph; before that oil pastel and risograph. Today a cyanotype blueprint, the first blueprint-style piece in this stretch. Mood: still Sunday dawn.
+Mark: a research study into a computer-science thinker's work on interaction-net computing is set up (essays saved, source copies gathered, a staged plan) but not yet started; it waits as an unopened pile beside the gate. Voice-model tests, the transcriber contest and verdicts still wait too.
+Seal: open: the study's first session, the voice tests, the verdicts. Closed: the study's setup. Awaiting Will: the word to start.
+Drift: first render had no pink thread at all (load-bearing for the series), so it was regenerated once with the thread stressed. The kept render has the pink thread from padlock to primer, but drops the wall of teal drawers (replaced by a blue stack of folios) and the yellow-green line; the knot pegboard shows one tangled middle instead of two collapsed pairs; a faint mountain horizon and grid-paper background appeared unprompted.
+Origin: the newly staged research study, with its stacks of saved essays and source copies, suggested the pegboard of knots and the unopened folios.
+Text: no focal text
+Decision: retry — first render lacked the pink thread; second kept as truer.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-08 08:31:23) · returned 1024x576 · 1166814 bytes · from tool-result-file · no resize/edit
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-08 08:31:53) · returned 1024x576 · 1129416 bytes · from tool-result-file · no resize/edit
