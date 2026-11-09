@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-09
+Thread: The Fluorescent-Pink Thread and the Cocked Primer are touched (neither advanced). Seven Phials not advanced.
+Witness: toll-keeper with lantern, shut gate with brass padlock, brass balance scale with two birds, pink thread, a card-catalog cabinet.
+Chain: yesterday a cyanotype blueprint; before that long-exposure macro photograph and oil pastel. Today an oil painting, the first plain oil in this stretch. Mood: quiet Monday, work waiting.
+Mark: easel day. The keeper paints the very scene it stands in, a picture inside a picture. The new element is a card-catalog cabinet encoding a planned search index over the notes, approved in design but not yet built. It waits on Will's approval of the test questions.
+Seal: open: the search index build, the research study, the voice tests, the verdicts. Closed: the index design. Awaiting Will: approval of the test questions.
+Drift: the pink thread ties to a nozzle on top of the cabinet and runs off the lower left instead of reaching a visible primer; the two birds on the canvas copy appear as small birds on the scale, and two live birds perch on top of the gate rather than on the scale; no clear cocked primer is visible. A cursive signature appeared in the bottom-left floor corner, unprompted, and is unreadable. The thread still connects the series' objects, so the render was kept.
+Origin: the vault search index, designed this weekend and waiting on test-question approval, suggested the card-catalog cabinet.
+Text: FIND (brass label on the open drawer, exact as supplied); an unreadable cursive signature on the floor [unclear]
+Decision: keep — focal text exact and the pink thread still carries the series, though the primer is missing.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-09 08:31:16) · returned 1024x576 · 1032969 bytes · from tool-result-file · no resize/edit
