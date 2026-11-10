@@ -1,0 +1,12 @@
+Provenance Card — 2026-11-10
+Thread: The Fluorescent-Pink Thread and the Cocked Primer are touched (neither advanced). Seven Phials not advanced.
+Witness: toll-keeper with lantern, shut gate with brass padlock, brass balance scale with two birds, teal table, pink thread, yellow-green line.
+Chain: yesterday an easel-day oil painting; before that a cyanotype and a long-exposure macro photograph. Today a woodblock print, new to this stretch. Mood: quiet Tuesday, work waiting.
+Mark: a wall of blank question cards, some with torn corners, encodes the planned test set for the vault search index: twenty questions, half of them hard because the wording differs from the notes. It waits on Will's approval.
+Seal: open: test-set approval, the search index build, the research study, the voice tests, the verdicts. Closed: nothing new. Awaiting Will: approval of the test questions.
+Drift: first render was discarded: the gate stood open with the keeper in the doorway, which breaks the series truth that the gate stays shut. The second render closes the gate with a chained padlock, but shows twelve cards in a 3x4 grid with roughly six to seven torn edges instead of twenty with ten torn; the keeper stands lower left rather than before the gate; the pink thread runs from a spool device in the bottom right through the padlock, so the primer reads as a spool; two yellow-green lines instead of one; unprompted sunset hills visible through the bars. Kept: the shut gate is the load-bearing truth, and the card count is a loss of precision, not a reversal.
+Origin: the vault search index test set, twenty questions staged this weekend and awaiting approval, suggested the wall of question cards.
+Text: no focal text
+Decision: retry — the first render opened the gate; the second keeps it shut though the card count drifted.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-10 08:31:13) · returned 1024x576 · 1039773 bytes · from tool-result-file · no resize/edit (attempt 1, discarded)
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-10 08:31:53) · returned 1024x576 · 1030160 bytes · from tool-result-file · no resize/edit (attempt 2, kept)
