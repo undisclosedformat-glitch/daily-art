@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-12
+Thread: The Fluorescent-Pink Thread and the Cocked Primer are touched (neither advanced). Seven Phials not advanced.
+Witness: toll-keeper with lantern, shut gate with brass padlock, brass balance scale with two birds, teal table, brass inbox tray with one sealed envelope, pink line, yellow-green line.
+Chain: yesterday and the days before were woodblock, oil painting, cyanotype and macro photograph. Today a drawing in the manner of chalk and pencil on toned paper. Mood: quiet Thursday, answers pending.
+Mark: a single sealed, blank envelope in an inbox tray stands for a reply that has not yet arrived; nothing has been opened.
+Seal: open: test-set approval for the vault search index, the research study, the voice tests. Closed: nothing new. Awaiting Will: approval of the test questions.
+Drift: the medium reads as colored pencil or pastel rather than charcoal and chalk, which still tells the same truth (hand-drawn, quiet). The scale is tilted slightly toward the gold-and-black bird instead of level. The primer sits on the right edge of the table rather than the far corner, and the pink line reads as a straight glowing beam to the padlock rather than a thread; the yellow-green line runs along the table front. The gate stays shut. Kept: the shut gate and the waiting envelope are intact; the rest is loss of precision.
+Origin: the vault search index test set still awaiting approval suggested the envelope: a thing sent, not yet answered.
+Text: no focal text
+Decision: keep — the gate is shut and the new element is legible.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-12 16:41:35) · returned 1024x576 · 1224397 bytes · from tool-result-file · no resize/edit
