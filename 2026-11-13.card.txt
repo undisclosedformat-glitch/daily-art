@@ -1,0 +1,11 @@
+Provenance Card — 2026-11-13
+Thread: The Fluorescent-Pink Thread and the Cocked Primer are touched (neither advanced). Seven Phials not advanced.
+Witness: toll-keeper with lantern, shut gate with brass padlock, brass balance scale with birds, teal table, brass magnifying lens, small cabinet of drawers, pink thread, yellow-green line.
+Chain: recent pieces were chalk drawing, woodblock, oil painting, cyanotype and macro photograph. Today a woven, embroidered tapestry. Mood: quiet Friday, decisions pending.
+Mark: a magnifying lens beside a small cabinet where one drawer glows stands for the vault search index: a way to find the note nobody pointed at. It is designed and waiting; nothing has been built.
+Seal: open: test-set approval for the vault search index, the research study, voice tests. Closed: nothing new. Awaiting Will: approval of the test questions.
+Drift: the keeper rendered as a small box-like figure with a sad face; the scale is heavily tilted, with two small birds in one pan against one larger bird in the other, not level; the lens stands beside the drawer cabinet instead of over it; the pink thread runs from the padlock through the lantern to the drawer cabinet instead of to a primer in the far corner, and a small brass oil-can-like object sits at the table's right edge. Same truth kept: the gate is shut, a drawer glows as found, the thread still joins lock and table. The pink thread's endpoint moving to the drawers is the load-bearing change; kept and disclosed.
+Origin: the vault search index test set awaiting approval suggested the lens: finding something already filed.
+Text: no focal text
+Decision: keep — the gate is shut and the new element is legible.
+Receipt: RECEIPT: endpoint fal-ai/flux-2-pro (log 2026-11-13 08:31:03) · returned 1024x576 · 1372816 bytes · from tool-result-file · no resize/edit
